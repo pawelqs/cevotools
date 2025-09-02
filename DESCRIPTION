@@ -1,4 +1,4 @@
-Package: cevotools
+Package: cevoextras
 Title: Tools for Cancer Evolution Analysis
 Version: 0.0.0.9000
 Authors@R: 
@@ -8,7 +8,7 @@ Description: What the package does (one paragraph).
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-RoxygenNote: 7.3.1
+RoxygenNote: 7.3.2
 Imports: 
     cevodata,
     cli,
